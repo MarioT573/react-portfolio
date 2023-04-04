@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.js": "/react-portfolio/static/js/main.4f63d27c.js",
+    "main.js": "/react-portfolio/static/js/main.ae69ba57.js",
     "static/media/lattelarry.png": "/react-portfolio/static/media/lattelarry.74c0b2400a7264b21c13.png",
     "static/media/portfoliobg.png": "/react-portfolio/static/media/portfoliobg.702317fb1f397338892a.png",
+    "static/media/earthify.PNG": "/react-portfolio/static/media/earthify.58facfd77d68bdfcd852.PNG",
     "static/media/bakery.png": "/react-portfolio/static/media/bakery.611d56c9033febc5c42e.png",
     "static/media/selfpic.jpg": "/react-portfolio/static/media/selfpic.e25942a8051ca6e73910.jpg",
     "static/media/marioResume.pdf": "/react-portfolio/static/media/marioResume.c607382697a3ce538a59.pdf",
     "static/media/weatherdemo.png": "/react-portfolio/static/media/weatherdemo.6a330a9405736d94be26.png",
-    "static/media/teamprofile.PNG": "/react-portfolio/static/media/teamprofile.e0db4401b547215c4811.PNG",
     "static/media/notetaker.PNG": "/react-portfolio/static/media/notetaker.e9b76ebca9e0a2c2883e.PNG",
     "static/media/JATE.png": "/react-portfolio/static/media/JATE.0f627392ba95afc4e487.png",
     "index.html": "/react-portfolio/index.html",
-    "main.4f63d27c.js.map": "/react-portfolio/static/js/main.4f63d27c.js.map"
+    "main.ae69ba57.js.map": "/react-portfolio/static/js/main.ae69ba57.js.map"
   },
   "entrypoints": [
-    "static/js/main.4f63d27c.js"
+    "static/js/main.ae69ba57.js"
   ]
 }
